@@ -1,4 +1,4 @@
-# AlgoFlame - Problem Solving Platform
+# AlgoFlame
 
 <div align="center">
   <a>
@@ -41,6 +41,7 @@ Welcome to AlgoFlame, a dynamic platform for honing your problem-solving skills 
 6. **Explore AlgoFlame:** The app will be available at http://localhost:3000.
 
 ## Screenshots
+
 <div>
   <img src="./pictures/signup.png" alt="pictures">&nbsp;
   <img src="./pictures/HomePage.png" alt="pictures">&nbsp;
