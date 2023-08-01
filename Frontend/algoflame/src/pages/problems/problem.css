@@ -1,0 +1,39 @@
+.head{
+    width: 80%;
+    margin: auto;
+}
+.problem_diff {
+    display: flex;
+}
+/* .problem_item{
+    display: flex;
+}
+.allprobs{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.problem_container{
+    width: 80%;
+    display: grid;
+}
+
+
+.prob_col{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.prob_head{
+    margin: 1rem;
+    padding: 1rem;
+
+    margin-bottom:0 ;
+    padding-bottom:0 ;
+    text-align: center;
+} */

@@ -1,0 +1,32 @@
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+#signUp{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+.inputField{
+    margin-bottom: 1rem;
+    /* text-align: center; */
+}
+
+.formBox{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    height: 50%;
+    
+}
